@@ -1,0 +1,6 @@
+C:\Users\gamer\source\repos\AIDC\AIDC\bin\Release\AIDC.exe.config
+C:\Users\gamer\source\repos\AIDC\AIDC\bin\Release\AIDC.exe
+C:\Users\gamer\source\repos\AIDC\AIDC\bin\Release\AIDC.pdb
+C:\Users\gamer\source\repos\AIDC\AIDC\obj\Release\AIDC.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\AIDC\AIDC\obj\Release\AIDC.exe
+C:\Users\gamer\source\repos\AIDC\AIDC\obj\Release\AIDC.pdb
