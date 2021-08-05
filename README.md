@@ -1,10 +1,12 @@
 <h1 align="center">
   <br>
-  Markdownify
+  AIDC
   <br>
 </h1>
 
-Anydesk ID Changer made with 3 lines
+<h4 align="center">Anydesk ID Changer made with 3 lines.</h4>
+
+
 
 Note: Make sure to urn this program as Administaror permissions so it would kill anydesk perfectly and without any problems.
 
